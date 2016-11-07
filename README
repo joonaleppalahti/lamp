@@ -1,0 +1,7 @@
+Puppet module to install LAMP
+
+Currently:
+Installs Apache2 and changes the default page
+Installs SSH and changes port to 5555
+
+To-do: MySQL, PHP
