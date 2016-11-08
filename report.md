@@ -14,11 +14,7 @@ Seuraavaksi avasin virtuaalikoneella Xubuntun livetilassa, johon asensin gitin.
 Kloonasin GitHubiin luomani repositoryn git clone komennolla. Tämän jälkeen loin init.pp tiedostolle
  manifests hakemiston, jotta moduulin hakemistorakenne on oikea.
  Lisäsin myös README tiedoston, joka kertoo mitä moduuli tällä hetkellä tekee.
- Muokkaukseni päivitin githubiin komennoilla
-'monospace'git add .
-'monospace'git commit
-'monospace'git pull
-'monospace'git push
+ Muokkaukseni päivitin githubiin komennoilla 'git add .', 'git commit', 'git pull', 'git push'
 
 Ensimmäistä kertaa committia käyttäessä git ohjeistaa lisäämään sähköpostin ja käyttäjänimen.
 
