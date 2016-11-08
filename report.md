@@ -1,5 +1,7 @@
-# Harjoitus 5 raportti
+# Palvelinten Hallinta: Harjoitus 5
 
-## alaotsikko
+h5. Tee moduli git-varastoon ja kirjoita raportti sinne MarkDownilla.
 
-Tekstiä
+Update: Bonustehtävänä voit kokeilla kloonata uusi modulisi vasta bootatulle live-USB:lle.
+
+Tehtävät: http://terokarvinen.com/2016/aikataulu-palvelinten-hallinta-ict4tn022-1-5-op-uusi-ops-loppusyksy-2016
